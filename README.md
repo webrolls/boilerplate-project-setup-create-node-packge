@@ -4,7 +4,7 @@ Boilerplate project for creating node package using nodejs
 This is node boilerplate project setup to kick start your node package development using nodejs.
 
 
-Issues you might face
+<strong>Issues you might face</strong>
 
 <pre>
 c:\projects\boilerplate-project-setup-create-node-packge>npm run build
