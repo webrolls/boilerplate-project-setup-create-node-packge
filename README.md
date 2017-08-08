@@ -1,7 +1,7 @@
 # project-setup-for-creating-node-packges
 Boilerplate project for creating node package using es6/nodejs
 
-This is node boilerplate project setup to kick start your node package development using nodejs.
+This is node boilerplate project setup to kick start your <strong><i>node package development</i></strong> using es6/nodejs powered by webpack, webpack-dev-server, babel for supporting es6. 
 
 
 <strong>Issues you might face</strong>
