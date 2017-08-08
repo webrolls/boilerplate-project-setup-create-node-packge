@@ -3,8 +3,14 @@ Boilerplate project for creating node package using es6/nodejs
 
 This is node boilerplate project setup to kick start your <strong><i>node package development</i></strong> using es6/nodejs powered by webpack, webpack-dev-server, babel for supporting es6. 
 
+To get started clone this repository 'boilerplate-project-setup-create-node-packge'
+<pre>git clone git@github.com:webrolls/boilerplate-project-setup-create-node-packge.git</pre>
+then install node packages 
+<pre>npm install</pre>
+and test run the project using
+<pre>npm run build</pre>
 
-<strong>Issues you might face</strong>
+Here are some <strong>issues you might face</strong>.
 
 <pre>
 c:\projects\boilerplate-project-setup-create-node-packge>npm run build
