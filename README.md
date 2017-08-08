@@ -28,7 +28,7 @@ npm ERR! Failed at the modern-javascript-project-setup@1.0.0 build script.
 npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
 
 npm ERR! A complete log of this run can be found in:
-npm ERR!     C:\Users\kkhan\AppData\Roaming\npm-cache\_logs\2017-08-08T19_44_56_463Z-debug.log
+npm ERR! C:\Users\kk\AppData\Roaming\npm-cache\_logs\2017-08-08T19_44_56_463Z-debug.log
 </pre>
 
 To resolve above issue while runnimg 'npm tun build' I just installed webpack and webpack-dev-server again and it fixed the problem for me.
